@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:facebook="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_facebook_login"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="com.androidbie.googlelogintutorial.FacebookLoginActivity">
+
+
+    <FrameLayout
+        android:id="@+id/frame_layout_btn_login_facebook"
+        android:layout_width="match_parent"
+        android:background="@android:color/holo_blue_light"
+        android:layout_height="50dp">
+
+        <com.facebook.login.widget.LoginButton
+            android:id="@+id/fbLogin"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="15dp"
+            android:visibility="gone"
+            android:paddingBottom="15dp" />
+
+        <TextView
+            android:id="@+id/tv_login"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:background="?attr/selectableItemBackground"
+            android:text="Login Using Facebook"
+            android:textColor="@android:color/white"
+            />
+    </FrameLayout>
+
+    <com.facebook.login.widget.ProfilePictureView
+        android:layout_weight="1"
+        android:layout_marginTop="30dp"
+        android:id="@+id/imageview_profile_pict"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:id="@+id/textview_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center"/>
+
+    <LinearLayout
+        android:layout_gravity="bottom"
+        android:layout_width="wrap_content"
+        android:clickable="true"
+        android:background="@android:color/holo_blue_light"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/btn_log_out_facebook"
+            android:layout_width="wrap_content"
+            android:background="?attr/selectableItemBackground"
+            android:textColor="@android:color/white"
+            android:text="Logout"
+            android:visibility="gone"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</LinearLayout>

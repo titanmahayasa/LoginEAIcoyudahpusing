@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\GoogleAndFacebookLogin-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_c9984afdbae1fa55eddc4d5df36694c60adcf9be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pangestu Titan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0_f9bb37f0a26d21b0ee9b397a9fbb2102e3a5ab22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GoogleAndFacebookLogin-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.0.2_8e5c92230d0e721d6a03c2b323a2d789cfc7777e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GoogleAndFacebookLogin-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.0.2_d04d8d2c64a559e24a749064bb63073e55a64410.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GoogleAndFacebookLogin-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_1fed95eacab46e26970dec495f7ceacd88bd1f0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GoogleAndFacebookLogin-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.2_937a44a43a2b4b6ab532d502c616c96c80666d94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GoogleAndFacebookLogin-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_7c63c3c30bae698c909e56b5de3abcc5e8c3bc5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GoogleAndFacebookLogin-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_e5d83a3876e48d5ee7bf52793b51eba5f7293ab0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GoogleAndFacebookLogin-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_56c225860ff6a1f55321748cea3115756570d110.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GoogleAndFacebookLogin-master\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.5.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="15ad6a46fb8e2ed86556e0b330d738b589dc62c7">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.5.0_781b31965aaab1a14e9d4392a0bbcd5a0de568e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pangestu Titan\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_663e84b07b3f2d0ab272e0e8cd7a359fd89656c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GoogleAndFacebookLogin-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_51b96c99aae45361d7a45ab1f5d8c9f2f31d69fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GoogleAndFacebookLogin-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_7e3ca411d5e022d724e8bce00b7609f88105069c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GoogleAndFacebookLogin-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.0.2_9b58f289cea3cf09d2ac82e16f2c7d50e400f6ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GoogleAndFacebookLogin-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.2_d0e8bfd1065329f1fdec1da7051bdc77685d3318.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GoogleAndFacebookLogin-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.2_d9418e3ed809c1b10ce790a467570577b03f8388.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pangestu Titan\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\glide-3.7.0_f83552d700c4b3d7374a76f4376a9933fe992c4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GoogleAndFacebookLogin-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_b81c66299cda12620d96b04dfa26cb76d0323c9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GoogleAndFacebookLogin-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_f468face6b21fb4e290f8341c871c6292d89b2f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GoogleAndFacebookLogin-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.0.2_1ed0595dad890130f1cc15644f219137aa5ab2e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GoogleAndFacebookLogin-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_3a6bb730dbb6c053949fb75f549f63d6cb4adc92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GoogleAndFacebookLogin-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.2_e30e72cee8dbf1cd5bc7822dd11270a86fadd8de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GoogleAndFacebookLogin-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.0.2_1157be10ce31ea302834a0ab1961fe33a12d69ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GoogleAndFacebookLogin-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_3c855f1c6a7dd12fb3260a7785d3863c7e92c37b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GoogleAndFacebookLogin-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.0.2_d56e074a9fc4c5bcf60d796feec2a52d494ce3a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GoogleAndFacebookLogin-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_7c943ca0aeb205fffd636d835ee903eddc74a0e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GoogleAndFacebookLogin-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_c797bc6a927402e288b67eb72b37a8221d61d537.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GoogleAndFacebookLogin-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\GoogleAndFacebookLogin-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_15cd2bad1ba4232940838cbd6465cd63f22f53f8.jar" />
+    </item>
+
+</items>
